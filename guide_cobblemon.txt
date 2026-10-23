@@ -1,0 +1,19 @@
+§6#001 §fCobblemon
+§bMod principale • Pokémon in Minecraft
+§fAggiunge i Pokémon a Minecraft, con modelli a blocchi: li incontri nel mondo, li catturi, li alleni, li fai salire di livello e li fai evolvere. Sono disponibili centinaia di specie, dalla prima alla nona generazione.
+§6ɪɴɪᴢɪᴏ
+§fAll'inizio premi §bM§f per aprire la schermata degli starter e scegliere il tuo primo Pokémon. Premendo di nuovo §bM§f si apre il menu della squadra.
+§6ᴛᴀꜱᴛɪ ᴅɪ ʙᴀꜱᴇ
+§fCon §bR§f mandi in campo il Pokémon selezionato. Usata davanti a un Pokémon selvatico o a un altro giocatore, la stessa funzione avvia una lotta. Le frecce selezionano il Pokémon della squadra.
+§7Sono i tasti predefiniti: si cambiano dalle impostazioni dei Comandi di Minecraft.
+§6ᴄᴀᴛᴛᴜʀᴀʀᴇ
+§fI Pokémon selvatici sono pacifici finché non inizi tu lo scontro. Per catturarli servono le Poké Ball: ce ne sono di tipi diversi e molte si fabbricano con gli Apricorn.
+§6ꜱǫᴜᴀᴅʀᴀ ᴇ ᴘᴄ
+§fLa squadra è di sei Pokémon. Tutti gli altri vanno nel PC, un blocco che puoi fabbricare e che serve a organizzare e scambiare i Pokémon.
+§6ᴄᴜʀᴇ
+§fLa Healing Machine è un blocco fabbricabile: con il tasto destro cura tutta la squadra, ripristinando i PS e i PP e curando gli stati alterati. Dopo l'uso deve ricaricarsi.
+§6ᴍᴏꜱꜱᴇ
+§fOgni Pokémon ha quattro mosse attive, e puoi cambiarle liberamente senza perdere quelle già imparate.
+§6ᴘᴏᴋéᴅᴇx
+§fTiene traccia dei Pokémon che hai visto e di quelli che hai catturato.
+§7Le altre mod di questa guida sono addon che estendono Cobblemon.

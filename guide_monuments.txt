@@ -1,0 +1,45 @@
+§6#003 §fMonumenti
+§bLegendary Monuments • Strutture e Leggendari
+§7Elenco delle strutture e di come ottenere i Pokémon. I dettagli possono cambiare con la versione della mod.
+§6ᴏᴠᴇʀᴡᴏʀʟᴅ
+§bBell Tower §7(Villaggio Tradizionale)
+§fHo-Oh. Parkour verticale con casse a ogni piano. Serve la Rainbow Feather, creata con le tre piume ottenute da Raikou, Entei e Suicune.
+§bBurned Tower §7(Villaggio Tradizionale)
+§fRaikou, Entei e Suicune. Prepari un dolcetto per ciascuno con bacche e una Poketreat Box, che il Entrepreneur Villager vende a volte, e lo metti sul piedistallo: compare un Leggendario di livello 40. Ricevi anche una piuma: gialla da Raikou, rossa da Entei, blu da Suicune.
+§bDragonspiral Tower §7(pianure)
+§fReshiram e Zekrom, evocati con la Light Stone e la Dark Stone. Ha 3 casse nascoste con oggetti utili e caramelle XP.
+§bKyurem Cave §7(zone fredde e montuose)
+§fKyurem. Dentro si trova il DNA Splicer, che permette a Kyurem di fondersi con Reshiram o Zekrom.
+§bSnowpoint Temple §7(pianure innevate)
+§fI sei Regi, uno per stanza: Regirock, Regice, Registeel, Regieleki, Regidrago e, per ultimo, Regigigas.
+§bSouthern Island §7(oceano profondo)
+§fLatias o Latios: puoi averne uno solo per isola, quindi per l'altro serve un'altra isola. Ha 2 casse nascoste.
+§bLugia Temple §7(oceano profondo)
+§fLugia. Labirinto sottomarino con molte casse. L'ingresso richiede la Vortex Stone, creata con le tre pietre ottenute evocando Articuno, Zapdos e Moltres.
+§bSpear Pillars §7(cime montuose)
+§fDialga e Palkia.
+§bFinal Island §7(isola nel cielo)
+§fMew. Si raggiunge con la Old Sea Map; compare in alto, in qualunque bioma tranne le montagne.
+§bLaghi §7(Acuity, Valor, Verity)
+§fUxie al Lake Acuity (taiga innevata), Azelf al Lake Valor (foresta oscura), Mesprit al Lake Verity (pianura di girasoli).
+§bDyna Tree §7(Dyna Plains)
+§fUna cassa alla base dell'albero con i Dyna Fruits, usati per le Galarian Urn e per i tre uccelli di Galar.
+§bLiberty Garden §7(oceano profondo)
+§fVictini, con il Liberty Pass. Solo nelle versioni più recenti.
+§bTurnback Cave §7(sottoterra)
+§fContiene il portale per il Mondo Distorto, con spawner di prova che danno le Griseous Key (ricarica di 30 minuti).
+§6ɴᴇᴛʜᴇʀ
+§bHeatran Cave
+§fHeatran. Enorme caverna con mostri pericolosi, molte casse e una stanza segreta, con il piedistallo per evocarlo. Difficoltà alta.
+§bTreasures of Ruin Shrines
+§fPer attivare un santuario servono 8 paletti (Stakes) dedicati, che possono comparire in qualunque bioma del Nether.
+§f• Grasswither Shrine → Wo-Chien (Warped Forest)
+§f• Icerend Shrine → Chien-Pao (Basalt Deltas)
+§f• Groundblight Shrine → Ting-Lu (Soul Sand Valley)
+§f• Firescourge Shrine → Chi-Yu (Nether Wastes)
+§6ᴇɴᴅ
+§bHoopa Pyramid
+§fHoopa. Un labirinto grande e due secondari, la lotta contro un'illusione di Hoopa Unbound shiny, un quiz su Hoopa e infine il premio per evocarlo.
+§bEternatus Cocoon
+§fEternatus. Il bozzolo va riempito del tutto prima di poterlo evocare.
+§7Fonti: wiki ufficiale della mod e wiki di Cobblemon Realms (versione recente).

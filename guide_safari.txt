@@ -1,0 +1,21 @@
+§6#005 §fCobbleSafari
+§bAddon di Cobblemon • Safari, portali e basi segrete
+§fPorta in Cobblemon nuove meccaniche dei giochi Pokémon. La mod è ancora in sviluppo.
+§6ᴅɪᴍᴇɴꜱɪᴏɴᴇ ꜱᴀꜰᴀʀɪ
+§fUna dimensione con 18 biomi, ognuno legato a un tipo di Pokémon, dove trovare Pokémon rari. Qui si cattura solo con le Safari Ball e i Pokémon possono scappare. L'accesso è a tempo: finito il tempo devi aspettare il giorno successivo, nella vita reale, per rientrare.
+§6ᴘᴏʀᴛᴀʟɪ ᴅɪ ʜᴏᴏᴘᴀ
+§fNel mondo possono comparire strani portali, che si dice siano opera di Hoopa. Ti portano in dungeon e dimensioni particolari, ma non restano aperti a lungo.
+§6ꜱᴏᴛᴛᴏꜱᴜᴏʟᴏ ᴅɪ ꜱɪɴɴᴏʜ
+§fUn minigioco di scavo per trovare sfere, tesori e fossili, anche rari, che possono garantire un Pokémon shiny. Ci sono nascondigli sotterranei, escursionisti con cui scambiare le sfere e basi segrete da cui prendere la bandiera.
+§6ᴍᴏɴᴅᴏ ᴅɪꜱᴛᴏʀᴛᴏ
+§fUn mondo senza alto e basso, con percorsi di parkour e labirinti. Combatti Pokémon distorti per ottenere frammenti di una catena rossa, da scambiare con oggetti che permettono di rigenerare o cambiare statistiche, livello, Poké Ball o stato shiny.
+§6ᴘʀᴏꜰᴜᴍɪ, ɪɴᴄᴇɴꜱɪ ᴇ ʀᴇᴘᴇʟʟᴇɴᴛɪ
+§fAumentano la frequenza di comparsa di Pokémon con certe caratteristiche. Usandone più di uno di seguito, la durata si somma invece di ricominciare.
+§6ᴜᴏᴠᴀ ꜱᴇʟᴠᴀᴛɪᴄʜᴇ ᴇ ɪɴᴄᴜʙᴀᴛʀɪᴄɪ
+§fNella Safari si trovano nidi: con il tasto destro prendi l'uovo, che dà un Pokémon raro con più probabilità di essere shiny. Per schiuderlo serve un'incubatrice, compatibile anche con le uova di Cobbreeding: ne riduce di un terzo il tempo di schiusa e ti fa scegliere la Poké Ball.
+§6ᴘᴀʟʟᴏɴᴄɪɴɪ ʀɪᴄᴏᴍᴘᴇɴꜱᴀ
+§fNel mondo normale puoi trovare, raramente, dei palloncini che scendono dall'alto e lasciano oggetti legati a Cobblemon. Nella Safari ne esiste una variante speciale.
+§6ᴘᴄ ᴅᴇʟʟᴀ ʙᴀꜱᴇ ꜱᴇɢʀᴇᴛᴀ
+§fUn blocco fabbricabile che funziona come un faro: con le bandiere trovate nelle basi segrete sblocchi effetti passivi per la tua base.
+§6ʀɪꜱᴏʀꜱᴇ
+§fWiki: §bcobblesafari.maxigregrze.fr

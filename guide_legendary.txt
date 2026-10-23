@@ -1,0 +1,25 @@
+§6#002 §fLegendary Monuments
+§bAddon di Cobblemon • Leggendari e Misteriosi
+§fRende più avventuroso ottenere i Pokémon Leggendari e Misteriosi: invece di aspettare che compaiano, trovi strutture nel mondo, raccogli oggetti e usi meccaniche di evocazione. Ogni Leggendario ha il suo monumento (vedi la voce §bMonumenti§f).
+§6ᴄᴏᴍᴇ ꜰᴜɴᴢɪᴏɴᴀ
+§fEsempi di meccaniche: raccogliere impronte, creare urne antiche e raccogliere anime di Pokémon, attraversare labirinti, rispondere a domande, riempire un bozzolo. Alla fine si evoca il Leggendario su un piedistallo, con effetti e suoni dedicati.
+§6ᴄᴏᴍᴇ ᴛʀᴏᴠᴀʀᴇ ɪ ᴍᴏɴᴜᴍᴇɴᴛɪ
+§f• Il Entrepreneur Villager vende mappe per localizzare le strutture, oltre a vari oggetti della mod (per esempio la Poketreat Box). Si trova all'Outskirt Stand, nei deserti.
+§f• L'Arc Phone permette di tracciare le strutture.
+§7Le strutture compaiono solo in terreno nuovo: nei chunk già esplorati non si generano.
+§6ʀᴇɢᴏʟᴇ ɪᴍᴘᴏʀᴛᴀɴᴛɪ
+§f• I Leggendari ottenuti con la mod hanno il 2% di probabilità di essere shiny.
+§f• Ogni giocatore può evocare un solo Leggendario per piedistallo; più giocatori possono usare lo stesso. Fa eccezione la Dragonspiral Tower, dove puoi ottenere sia Zekrom sia Reshiram.
+§6ᴏɢɢᴇᴛᴛɪ ᴇ ᴍᴇᴄᴄᴀɴɪᴄʜᴇ
+§f• Urne: le Urne del Gelo, delle Tempeste e delle Braci, e le versioni di Galar, servono per i tre uccelli leggendari.
+§f• Tablet of Reawakening: si trova nelle casse delle strutture. Evocando 4 Leggendari si carica del 25% ciascuno; al 100% con il tasto destro ti porta al Reawakening Sanctum, dove puoi rincontrare i Leggendari già incontrati con più probabilità shiny.
+§f• Regi Pauldrons: spalline dei Regi che danno effetti come velocità, danno e armatura; si indossano tramite la mod Accessories.
+§f• Darkrai e Cresselia si ottengono con una meccanica legata al sonno.
+§6ᴘᴏᴋéᴍᴏɴ ᴅɪꜱᴘᴏɴɪʙɪʟɪ
+§fZacian, Zamazenta, Cobalion, Virizion, Terrakion, Keldeo, Moltres, Articuno, Zapdos, Raikou, Entei, Suicune, Cosmog, Regirock, Registeel, Regice, Regieleki, Regidrago, Regigigas, Eternatus, Reshiram, Zekrom, Kyurem, Latias, Latios, Hoopa, Ho-Oh, Lugia, Cresselia, Darkrai, Heatran, Celebi, Mew, Chien-Pao, Chi-Yu, Ting-Lu, Wo-Chien, Azelf, Uxie, Mesprit, Palkia, Dialga, Giratina e Arceus.
+§7Nelle versioni più recenti anche Victini, Yveltal, Xerneas, Marshadow, Meloetta, Spectrier, Glastrier, Calyrex ed Enamorous.
+§6ᴍᴏᴅ ʀɪᴄʜɪᴇꜱᴛᴇ
+§fCobblemon, Chipped, Accessories e Lithostitched.
+§7Alcuni Pokémon, come le Spade della Giustizia, richiedono modelli aggiuntivi o un resource pack.
+§6ʀɪꜱᴏʀꜱᴇ
+§fWiki ufficiale: §blegendarymonuments.com

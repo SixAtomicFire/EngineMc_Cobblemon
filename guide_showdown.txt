@@ -1,0 +1,18 @@
+§6#004 §fMega Showdown
+§bAddon di Cobblemon • Meccaniche dei giochi principali
+§fAggiunge a Cobblemon le grandi meccaniche dei giochi: Megaevoluzioni, Mosse Z, Teracristallizzazione, Dynamax e Gigamax, Ultra Burst e Fusioni.
+§6ᴄᴏꜱᴀ ɪɴᴄʟᴜᴅᴇ
+§f• Oltre 90 Megaevoluzioni
+§f• Tutti i Pokémon fusione e tutti i cambi di forma
+§f• Tutti gli strumenti delle meccaniche (gimmick)
+§f• Supporto per cavalcare i Pokémon
+§f• Oggetti cosmetici
+§6ᴍᴇɢᴀᴇᴠᴏʟᴜᴢɪᴏɴᴇ
+§fServono due cose: una Mega Stone specifica del Pokémon, tenuta come strumento, e una Key Stone, di solito nel Mega Bracelet che indossi. In lotta compare l'opzione per megaevolversi; a fine lotta il Pokémon torna normale. Rayquaza è l'eccezione: non vuole la pietra, basta che conosca Dragon Ascent.
+§fLe Raw Mega Stone e le Key Stone si trovano nei Megasite: strutture sotterranee sferiche, grigio scuro e viola, tra Y 5 e Y 20. Si scava fino al centro con un piccone d'oro o di diamante. Le Mega Stone si fabbricano con una Raw Mega Stone, un diamante, ferro e un oggetto specifico per ogni pietra.
+§7Le ricette possono cambiare con i datapack del server; per consultarle usa JEI, se è installato.
+§6ᴀᴄᴄᴇꜱꜱᴏʀɪ
+§fGli oggetti delle meccaniche si indossano in appositi slot, grazie all'integrazione con la mod Accessories.
+§6ᴘᴇʀꜱᴏɴᴀʟɪᴢᴢᴀʙɪʟᴇ
+§fÈ una piattaforma pensata per i datapack: si possono creare Mega, forme, fusioni, oggetti e condizioni di lotta personalizzati.
+§7Come ottenere gli oggetti su EngineMC: da completare.
